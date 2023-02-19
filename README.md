@@ -1,4 +1,4 @@
-GIT Homework 1
+GIT Homework 1 (JSON)
 
 Как отправить ДЗ на проверку.  
  1. Создайте текстоовый файл как в первом ДЗ по Terminal.  
@@ -70,7 +70,7 @@ JSON
  15. Отправить сразу 2 файла на внешний репозиторий.  
 	$ git status  
 	$ git add .  
-	$ git commit -m "Redacted file json"  
+	$ git commit -m "Added 2 files json"  
 	$ git push origin  
  16. На веб интерфейсе создать файл bug_report.json.  
 	* в веб интерфейсе создаем файл bug_report.json  
