@@ -72,4 +72,4 @@
  16. Сделать Commit changes (сохранить) изменения на веб интерфейсе.  
 	*Save  
  17. Синхронизировать внешний и локальный репозиторий JSON  
-	`$ git clone git@github.com:ItGroupAlex/JSON.git`  
+	`$ git pull`  
